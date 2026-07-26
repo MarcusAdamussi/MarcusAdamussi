@@ -22,11 +22,13 @@
 
 ### 📌 Projetos de Consultoria Industrial
 
+📌 Projetos de Consultoria Industrial
+
 | Projeto | Descrição | Status |
 | :--- | :--- | :---: |
-| 📊 **Análise de OEE & Paradas** | Dashboard executivo para redução de gargalos na linha de produção | 🚧 *Em construção* |
-| 💰 **Custo Industrial & Scrap** | Modelação financeira e controle de desperdício via SQL + Power BI | 🚧 *Em construção* |
-| 🔄 **Integração ERP/MES** | Pipeline em Python para extração e automação de relatórios | 🚧 *Em construção* |
+| 📊 [Análise de OEE & Paradas](https://github.com/MarcusAdamussi/projeto-oee-industrial) | Análise de eficiência fabril, OEE e impacto financeiro via SQL, Python e Pareto. | `✅ Concluído` |
+| 💰 Custo Industrial & Scrap | Modelagem financeira e controle de desperdício via SQL + Power BI | `🚧 Em construção` |
+| 🔄 Integração ERP/MES | Pipeline em Python para extração e automação de relatórios | `🚧 Em construção` |
 
 ---
 
