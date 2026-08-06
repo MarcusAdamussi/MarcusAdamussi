@@ -1,6 +1,6 @@
 # Olá, sou o Marcus Adamussi 👋
 
-### Consultor & Analista de Dados para a Indústria
+### Analista de Dados para a Indústria
 > Transformando dados brutos do chão de fábrica (**ERP, MES, IoT**) em decisões financeiras e eficiência operacional.
 
 ---
